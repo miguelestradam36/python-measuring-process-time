@@ -1,2 +1,7 @@
-# python-measuring-process-time
-Project for measuring how much time an execution may take place in python
+# Python - Measure the execution time
+
+Simple method to measure how much time your code takes to run
+
+!["Image"](/logo.jpg)
+
+
